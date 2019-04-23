@@ -1,9 +1,9 @@
-# TehranRealEstateProfitability
-An Analysis of the Residential Building Dataset with the Support Vector Machine Method
+# Tehran Real Estate Profitability
+#### An Analysis of the Residential Building Dataset with the Support Vector Machine Method
 
-My chosen dataset: Residential Data Set
-Link 
+## Dataset: Residential Data Set
 https://archive.ics.uci.edu/ml/datasets/Residential+Building+Data+Set#
+
 This dataset was donated to UCI Machine Learning Repository on Feb 19, 2018. This data set collected for 360 residential condominiums (3-9 stories) that were built between 1993 and 2008 in Tehran, Iran, a city with a metro population of around 8.2 million (Rafiei and Adeli). Among  29 attributes in this data set, responses are V-9 (actual sales price) and V-10 (actual construction cost) and the rest 26 are predictors. Among predictors, V-1 to V-8 are project physicals and financial variables, V-11 to V-29 are 19 economic variables and indices in 5 time lag numbers.
 
 Data Cleaning:
