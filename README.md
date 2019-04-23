@@ -15,4 +15,4 @@ Method:
 2.	After data cleaning, my data would have continuous predictors and categorical response, where n >>p.
 3.	I will use k-fold cross validation for model assessment. I will split this dataset into training sets and test sets repeatedly, train the model on training sets and validate it on test sets. I will use MSE to estimate the test error.  
 
-(I finnaly decided to use SVM)
+(I decided to use SVM at the end)
